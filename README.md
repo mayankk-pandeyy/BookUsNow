@@ -23,3 +23,15 @@
 <img width="1440" alt="Screenshot 2024-03-30 at 2 47 15 PM" src="https://github.com/mayankk-pandeyy/BookUsNow/assets/121502820/46f8b66c-d26b-43ad-ae89-a13637d807ec">
 
 -----------------------------------
+
+# JavaScript libraries used
+1 - Swiper
+2 - react-infinite-scroll-component
+3 - React Icons
+
+# Hooks Used
+1 - useState
+2 - useEffect
+
+# Api call made by 
+Fetch Api
