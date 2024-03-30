@@ -24,6 +24,12 @@
 
 -----------------------------------
 
+# Setup
+npx create-react-app bookusnow
+npm i react-infinite-scroll-component
+npm i react-icons
+npm i swiper
+
 # JavaScript libraries used
 1 - Swiper
 2 - react-infinite-scroll-component
@@ -35,3 +41,5 @@
 
 # Api call made by 
 Fetch Api
+
+# ----------------------------------------------------THANK YOU------------------------------------------------------------------------
